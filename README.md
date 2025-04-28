@@ -1,16 +1,13 @@
-## Hi there 👋
+📚 My Projects
 
-<!--
-**pnuie/pnuie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[tsp_algorithms](https://github.com/pnuie/tsp_algorithms)
+Comparative study of various algorithms (Greedy, 2-opt, LNS, etc.) for solving the Traveling Salesman Problem (TSP).
 
-Here are some ideas to get you started:
+[tsp_GA](https://github.com/pnuie/tsp_GA)
+Object-oriented implementation of Genetic Algorithm (GA) to solve TSP, with future extensions planned for neural approaches like Pointer Networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[column_generation](https://github.com/pnuie/column_generation)
+Column Generation method applied to the Cutting Stock Problem (CSP), focusing on linear programming formulations.
+
+[branch_and_bound](https://github.com/pnuie/branch_and_bound)
+Custom Branch and Bound (B&B) implementation for small Integer Programming (IP) problems, with variations in node exploration strategies.
