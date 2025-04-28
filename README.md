@@ -3,6 +3,7 @@
 - Machine Learning for Optimization
 - Real-Time Optimization in Smart Factory environments
 - Scheduling, Routing, and Logistics Optimization using learning-based methods
+- Deep Learning and Reinforcement Learning for Combinatorial Optimization
 
 Currently interested in bridging combinatorial optimization and machine learning to enable real-time decision-making in complex industrial systems.
 
