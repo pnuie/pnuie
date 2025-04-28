@@ -8,9 +8,9 @@
 Currently interested in bridging combinatorial optimization and machine learning to enable real-time decision-making in complex industrial systems.
 
 **Selected papers of interest:**
-- [Learning to Schedule Jobs in Manufacturing Systems via Reinforcement Learning (IEEE, 2023)](https://ieeexplore.ieee.org/document/10227334)
-- [Machine Learning for Real-Time Dispatching Decisions (INFORMS Transportation Science, 2020)](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2020.1000)
-- [Machine Learning for Smart Logistics: Opportunities and Challenges (International Journal of Production Research, 2025)](https://www.tandfonline.com/doi/full/10.1080/00207543.2025.2461131)
+- [Integrating Machine Learning and Mathematical Optimization for Job Shop Scheduling (IEEE, 2023)](https://ieeexplore.ieee.org/document/10227334)
+- [The Restaurant Meal Delivery Problem: Dynamic Pickup and Delivery with Deadlines and Random Ready Times (INFORMS Transportation Science, 2020)](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2020.1000)
+- [Flexible Material Handling System for Multi-Load Autonomous Mobile Robots in Manufacturing Environments: A Hierarchical Reinforcement Learning Approach (International Journal of Production Research, 2025)](https://www.tandfonline.com/doi/full/10.1080/00207543.2025.2461131)
 
 
 # 📚 My Studies
